@@ -15,4 +15,8 @@ categories = ["web-programming"]
 keywords = ["collection", "swervpay", "payment", "payout", "swyftpay"]
 description = "Rust client for Swervpay."
 
+exclude = [
+    "examples/*"
+]
+
 [dependencies]
