@@ -1,0 +1,18 @@
+[package]
+name = "swervpay-rs"
+version = "0.1.0"
+edition = "2021"
+
+license = "MIT"
+readme = "./README.md"
+
+authors = ["Mujeeb Muhideen <mujeeb.muhideen@gmail.com>"]
+repository = "https://github.com/swerv-ltd/swervpay-rs"
+homepage = "https://docs.swervpay.co/sdks/rust"
+documentation = "https://docs.rs/swervpay-rs"
+
+categories = ["web-programming"]
+keywords = ["collection", "swervpay", "payment", "payout", "swyftpay"]
+description = "Rust client for Swervpay."
+
+[dependencies]
